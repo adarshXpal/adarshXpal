@@ -13,6 +13,9 @@
 - 📫 How to reach me: **adarshpal5842@gmail.com**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uWioK-G4zCA936lwSj8F-ffCVAQyLbw5/view)
 - ⚡ Fun fact: Debugging is like being a detective in a crime movie where **you are also the murderer** 🤯
+- 🏆 Achieved **Top 150 globally** in *Google Solution Challenge 2023*.
+- 🥇 Ranked **World #497/20k+** in *Leetcode Biweekly Contest 119*.
+- 🎬 Served as **Secretary of Team Pixonoids** (Media & Marketing Club, NIT Hamirpur), leading 50+ members in event coverage, web dev, and content creation.
 
     </td>
   </tr>
@@ -55,9 +58,9 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=adarshxpal&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshxpal&layout=compact&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshxpal&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adarshxpal&show_icons=true&theme=dark" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshxpal&layout=compact&theme=dark" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshxpal&theme=dark" height="180em"/>
 
 </div>
 
