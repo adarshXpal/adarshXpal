@@ -1,37 +1,33 @@
 <h1 align="center">Hi 👋, I'm Adarsh Pal</h1>
-<h3 align="center">🚀 A Passionate Backend Developer 🚀</h3>
+<h3 align="center"> ⛩ A Passionate Software Developer | Video Editor | Animator ⛩ </h3>
 
-<div align="center" width="50%">
-  <br>
-  <img src="https://github.com/adarshXpal/adarshXpal/blob/master/214557.gif?raw=true" alt="aimationGif"  width="40%"/>
-</div>
-
----
-
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/adarshXpal/adarshXpal/blob/master/giphy.gif?raw=true" alt="aimationGif" width="100%"/>
+    </td>
+    <td width="50%" valign="top">
+      
 ### 👨‍💻 About Me
 - 👯 I’m looking to collaborate on **efficient and scalable backend solutions.**
 - 📫 How to reach me: **adarshpal5842@gmail.com**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uWioK-G4zCA936lwSj8F-ffCVAQyLbw5/view)
 - ⚡ Fun fact: Debugging is like being a detective in a crime movie where **you are also the murderer** 🤯
 
----
+    </td>
+  </tr>
+</table>
 
-### 🌐 Connect with me
-<p align="left">
-<a href="https://twitter.com/adarshxpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshxpal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adarshxpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshxpal" height="30" width="40" /></a>
-<a href="https://instagram.com/ada.rsh_pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ada.rsh_pal" height="30" width="40" /></a>
-</p>
 
 ---
 
 ### 🛠️ Languages & Tools  
 
 
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white)
@@ -84,6 +80,12 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adarshxpal&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadarshxpal&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 </div>
+
+### 🌐 Connect with me
+<p align="left">
+<a href="https://twitter.com/adarshxpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshxpal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarshxpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshxpal" height="30" width="40" /></a>
+<a href="https://instagram.com/ada.rsh_pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ada.rsh_pal" height="30" width="40" /></a>
+</p>
