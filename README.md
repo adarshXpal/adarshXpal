@@ -17,7 +17,7 @@
 - ⚡ Fun fact: Debugging is like being a detective in a crime movie where **you are also the murderer** 🤯
 - 🏆 Achieved **Top 150 globally** in *Google Solution Challenge 2023*.
 - 🥇 Ranked **World #497/20k+** in *Leetcode Biweekly Contest 119*.
-- 🎬 Served as **Secretary of Team Pixonoids** (Media & Marketing Club, NIT Hamirpur).
+- 🎬 Served as **Secretary of Team Pixonoids** (Film Making Club, NIT Hamirpur).
     </td>
   </tr>
 </table>
