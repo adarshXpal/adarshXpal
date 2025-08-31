@@ -4,7 +4,7 @@
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td width="50%" style="padding: 0; margin: 0;">
-      <img src="https://github.com/adarshXpal/adarshXpal/blob/master/Loop%20Space%20GIF%20by%20meityform.gif?raw=true" 
+      <img src="https://github.com/adarshXpal/adarshXpal/blob/master/giphy.gif?raw=true" 
            alt="animationGif" 
            style="width: 100%; height: 100%; display: block; border: 0;" />
     </td>
